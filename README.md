@@ -27,7 +27,7 @@ We aimed to answer the following key questions:
 ## 📊 Data Collection
 | Description                     | Source            |
 |---------------------------------|-------------------|
-| Raw dataset of Reddit comments  | reddit_all.csv  |
+| Raw dataset of Reddit comments  | [reddit.com](reddit.com)  |
 
 ---
 <br>
