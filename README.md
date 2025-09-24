@@ -35,5 +35,5 @@ We aimed to answer the following key questions:
 
 # 🛠️ Tools Used
 - 🐍 *Python Libraries*: pandas, numpy, matplotlib,etc... 
-- 🧹 *Text Cleaning*: regex, stopwords removal  
+- 🧹 *Text Cleaning*:  Lowercasing text  , removing the username column , replacing the account_age_days with account_age_years 
 - 🔎 *Features Extracted*: subreddit, comment_text, account_age (years), toxicity label
