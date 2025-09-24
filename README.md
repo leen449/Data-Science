@@ -8,7 +8,7 @@
 <br>
 <br>
 
-# ⚙ Project Overview
+## ⚙ Project Overview
 With the growth of online communities, it’s important to explore factors behind toxic vs. non-toxic comments.
 This project analyzes Reddit comments, focusing on toxicity detection, account age (in years), and subreddit patterns to uncover what drives negative interactions.
 
