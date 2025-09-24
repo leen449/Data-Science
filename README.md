@@ -1,8 +1,9 @@
 
 # Offense Level Based On Account Age
 
-
+<p align="center">
 <img width="500" height="500" alt="image"  margin ="0" src="https://github.com/user-attachments/assets/7ebcfcb4-4bd2-4bd4-9bb4-ca2df1eae2ca" />
+</p>
 
 <br>
 <br>
