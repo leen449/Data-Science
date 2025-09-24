@@ -2,7 +2,7 @@
 # Offense Level Based On Account Age
 
 <p align="center">
-<img width="200" height="200" alt="image"  margin ="0" src="https://github.com/user-attachments/assets/7ebcfcb4-4bd2-4bd4-9bb4-ca2df1eae2ca" />
+<img width="300" height="300" alt="image"  margin ="0" src="https://github.com/user-attachments/assets/7ebcfcb4-4bd2-4bd4-9bb4-ca2df1eae2ca" />
 </p>
 
 <br>
