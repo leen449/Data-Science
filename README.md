@@ -16,3 +16,6 @@ We aimed to answer the following key questions:
 	•	How balanced is the dataset between toxic and non-toxic comments?
 
 # 📊 Data Collection
+*Description*        *source*
+---
+Raw Dataset of <br/>Reddit Comments  
