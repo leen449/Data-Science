@@ -39,13 +39,13 @@ We aimed to answer the following key questions:
 - 🔎 *Features Extracted*: subreddit, comment_text, account_age (years), toxicity label
 
 <br>
-
+---
 # 👥 Team & Supervision
 
-- [leen binmueqal 1]  
-- [Ghalia Alkhaldie 2]  
-- [Rana Alnagashy 3]  
-- [Juri Alghamdi 4]  
-- [Aryam Almutairi 5]  
+- [leen binmueqal]  
+- [Ghalia Alkhaldie]  
+- [Rana Alnagashy]  
+- [Juri Alghamdi]  
+- [Aryam Almutairi]  
 
 *Supervised by:* Dr. [ Abeer Aldayel]
