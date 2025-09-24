@@ -37,3 +37,15 @@ We aimed to answer the following key questions:
 - 🐍 *Python Libraries*: pandas, numpy, matplotlib,etc... 
 - 🧹 *Text Cleaning*:  Lowercasing text  , removing the username column , replacing the account_age_days with account_age_years 
 - 🔎 *Features Extracted*: subreddit, comment_text, account_age (years), toxicity label
+
+<br>
+
+# 👥 Team & Supervision
+
+- [leen binmueqal 1]  
+- [Ghalia Alkhaldie 2]  
+- [Rana Alnagashy 3]  
+- [Juri Alghamdi 4]  
+- [Aryam Almutairi 5]  
+
+*Supervised by:* Dr. [ Abeer Aldayel]
