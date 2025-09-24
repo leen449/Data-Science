@@ -39,7 +39,10 @@ We aimed to answer the following key questions:
 - 🔎 *Features Extracted*: subreddit, comment_text, account_age (years), toxicity label
 
 <br>
+
 ---
+
+
 # 👥 Team & Supervision
 
 - [leen binmueqal]  
