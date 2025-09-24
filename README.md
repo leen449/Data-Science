@@ -22,6 +22,7 @@ We aimed to answer the following key questions:
 	•	How balanced is the dataset between toxic and non-toxic comments?
 
 ***
+<br>
 
 # 📊 Data Collection
 *Description*  &nbsp;&nbsp; &nbsp;&nbsp; *source*
