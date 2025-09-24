@@ -1,11 +1,16 @@
 
 # Offense Level Based On Account Age
+***
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/485a1bbb-f78d-403a-be58-f2495fec81b6" />
+
+***
 
 # ⚙ Project Overview
 With the growth of online communities, it’s important to explore factors behind toxic vs. non-toxic comments.
 This project analyzes Reddit comments, focusing on toxicity detection, account age (in years), and subreddit patterns to uncover what drives negative interactions.
+
+---
 
 # 💎Objectives
 
@@ -18,4 +23,4 @@ We aimed to answer the following key questions:
 # 📊 Data Collection
 *Description*  &nbsp;&nbsp; &nbsp;&nbsp; *source*
 ---
-Raw Dataset of <br/>Reddit Comments  &nbsp;&nbsp;&nbsp;&nbsp; [reddit.com]([url](https://www.reddit.com/))
+Raw Dataset of <br/>Reddit Comments  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; [reddit.com]([url](https://www.reddit.com/))
