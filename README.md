@@ -15,3 +15,4 @@ We aimed to answer the following key questions:
 	•	What words are most linked to toxic behavior?
 	•	How balanced is the dataset between toxic and non-toxic comments?
 
+# 📊 Data Collection
