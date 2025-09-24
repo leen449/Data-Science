@@ -7,7 +7,7 @@
 With the growth of online communities, it’s important to explore factors behind toxic vs. non-toxic comments.
 This project analyzes Reddit comments, focusing on toxicity detection, account age (in years), and subreddit patterns to uncover what drives negative interactions.
 
-#💎Objectives
+# 💎Objectives
 
 We aimed to answer the following key questions:
 	•	Do toxic comments appear more in certain subreddits?
