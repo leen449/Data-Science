@@ -24,7 +24,15 @@ We aimed to answer the following key questions:
 ***
 <br>
 
-# 📊 Data Collection
-*Description*  &nbsp;&nbsp; &nbsp;&nbsp; *source*
+## 📊 Data Collection
+| Description                     | Source            |
+|---------------------------------|-------------------|
+| Raw dataset of Reddit comments  | reddit_all.csv  |
+
 ---
-Raw Dataset of <br/>Reddit Comments  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; [reddit.com]([url](https://www.reddit.com/))
+<br>
+
+## 🛠️ Tools Used
+- 🐍 *Python Libraries*: pandas, numpy, matplotlib  
+- 🧹 *Text Cleaning*: regex, stopwords removal  
+- 🔎 *Features Extracted*: subreddit, comment_text, account_age (years), toxicity label
