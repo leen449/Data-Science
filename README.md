@@ -5,6 +5,7 @@
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/485a1bbb-f78d-403a-be58-f2495fec81b6" />
 
 <br>
+<br>
 
 # ⚙ Project Overview
 With the growth of online communities, it’s important to explore factors behind toxic vs. non-toxic comments.
@@ -32,7 +33,7 @@ We aimed to answer the following key questions:
 ---
 <br>
 
-## 🛠️ Tools Used
-- 🐍 *Python Libraries*: pandas, numpy, matplotlib  
+# 🛠️ Tools Used
+- 🐍 *Python Libraries*: pandas, numpy, matplotlib,etc... 
 - 🧹 *Text Cleaning*: regex, stopwords removal  
 - 🔎 *Features Extracted*: subreddit, comment_text, account_age (years), toxicity label
