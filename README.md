@@ -11,7 +11,7 @@ With the growth of online communities, it’s important to explore factors behin
 This project analyzes Reddit comments, focusing on toxicity detection, account age (in years), and subreddit patterns to uncover what drives negative interactions.
 
 ***
-<br />
+
 # 💎Objectives
 
 We aimed to answer the following key questions:
@@ -21,7 +21,7 @@ We aimed to answer the following key questions:
 	•	How balanced is the dataset between toxic and non-toxic comments?
 
 ***
-<br />
+
 # 📊 Data Collection
 *Description*  &nbsp;&nbsp; &nbsp;&nbsp; *source*
 ---
